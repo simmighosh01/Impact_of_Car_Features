@@ -1,0 +1,74 @@
+Row Labels,Sum of Popularity,Sum of Count of Model
+"Performance,Hybrid",155,1
+"Exotic,Luxury,High-Performance,Hybrid",204,1
+"Crossover,Exotic,Luxury,High-Performance",238,1
+"Crossover,Exotic,Luxury,Performance",238,1
+"Flex Fuel,Factory Tuner,Luxury,High-Performance",258,1
+"Flex Fuel,Hybrid",310,2
+"Flex Fuel,Performance,Hybrid",310,2
+"Crossover,Factory Tuner,Performance",840,4
+"Factory Tuner,Luxury",1234,2
+"Exotic,Luxury",1352,12
+"Hatchback,Luxury,Hybrid",1362,3
+"Crossover,Hatchback,Luxury",1428,7
+"Exotic,Factory Tuner,Luxury,Performance",1560,3
+"Exotic,Flex Fuel,Luxury,High-Performance",5720,11
+"Crossover,Diesel",6111,7
+"Exotic,Flex Fuel,Factory Tuner,Luxury,High-Performance",6760,13
+"Luxury,High-Performance,Hybrid",6826,12
+"Exotic,Luxury,Performance",7813,36
+"Crossover,Luxury,Performance,Hybrid",7832,2
+"Hatchback,Factory Tuner,Luxury,Performance",7982,9
+"Crossover,Luxury,High-Performance",9335,9
+"Crossover,Flex Fuel,Luxury,Performance",9744,6
+"Crossover,Flex Fuel,Luxury",11732,10
+"Crossover,Hatchback,Factory Tuner,Performance",12054,6
+"Crossover,Hatchback,Performance",12054,6
+"Hatchback,Diesel",12222,14
+"Crossover,Factory Tuner,Luxury,Performance",13037,5
+"Exotic,Performance",13910,10
+"Crossover,Luxury,Hybrid",15142,24
+"Hatchback,Factory Tuner,High-Performance",15667,13
+"Exotic,Factory Tuner,High-Performance",21974,21
+"Luxury,Performance,Hybrid",25665,11
+"Exotic,Factory Tuner,Luxury,High-Performance",26912,52
+"Flex Fuel,Luxury,High-Performance",29004,33
+"Flex Fuel,Luxury",29115,39
+"Crossover,Flex Fuel,Performance",33942,6
+"Luxury,Hybrid",35029,52
+"Exotic,Luxury,High-Performance",36899,79
+"Flex Fuel,Luxury,Performance",38642,28
+"Hatchback,Flex Fuel",39599,7
+"Factory Tuner,Luxury,Performance",43816,31
+"Crossover,Factory Tuner,Luxury,High-Performance",47410,26
+"Hatchback,Factory Tuner,Performance",47499,22
+"Hatchback,Luxury,Performance",59513,38
+"Hatchback,Luxury",63457,46
+"Crossover,Luxury,Diesel",73080,34
+"Flex Fuel,Diesel",90512,16
+"Crossover,Hybrid",107662,42
+"Diesel,Luxury",116025,51
+"Crossover,Hatchback",120650,72
+"Crossover,Flex Fuel",132720,64
+Diesel,145396,84
+"Flex Fuel,Performance",146201,87
+"Crossover,Luxury,Performance",151968,113
+"Hatchback,Hybrid",152730,72
+"Factory Tuner,Performance",156004,92
+"Crossover,Performance",178431,69
+"Factory Tuner,High-Performance",205790,106
+Hybrid,258985,123
+"Hatchback,Performance",261991,252
+"Exotic,High-Performance",331818,261
+High-Performance,362468,199
+"Crossover,Luxury",362665,410
+"Factory Tuner,Luxury,High-Performance",458674,215
+"Luxury,High-Performance",557118,334
+Performance,810673,601
+Hatchback,845393,641
+"Luxury,Performance",869930,673
+Luxury,942772,855
+Crossover,1715242,1110
+Flex Fuel,1933488,872
+N/A,6274920,3742
+Grand Total,18525212,11914
